@@ -1,0 +1,88 @@
+/* Fonts from Google Fonts - more at https://fonts.google.com */
+@import url('https://fonts.googleapis.com/css?family=Open+Sans:400,700');
+@import url('https://fonts.googleapis.com/css?family=Merriweather:400,700');
+@import url('https://fonts.googleapis.com/css?family=Raleway');
+
+a {
+  color: brown;
+  text-decoration: inherit;
+}
+
+
+body {
+  background-color: #ffffff;
+  font-family: "Open Sans", sans-serif;
+  font-size: 18px;
+  margin: 0;
+}
+
+h1, h2, h3 {
+  font-family: sans-serif, serif;
+  font-size: 3opx;
+}
+
+
+.header {
+  position: fixed;
+  height: 80px;;
+  width: 100%;
+  line-height: 0px;
+  word-wrap: normal;
+  padding: 10px;
+  margin: 0px;
+  background-color: #ffc107
+}
+
+.main_section {
+  min-height: 400px;
+  line-height: 38px;
+  padding: 8px;
+  padding-top: 110px;
+  
+}
+
+.image {
+  padding-right: 18px;
+  max-width: inherit;
+  text-align: left;
+  float: right;
+}
+
+.img-medium {
+  height: 80px;
+  border-radius: 50%;
+  align-items: 
+}
+
+.footer {
+  background-color: #ffc107;
+  padding: 5px;
+  font-size: 11px;
+  text-align: center
+}
+
+#name_main {
+  
+}
+
+
+
+#social-bar {
+  font-size: 12px;
+}
+
+#rock {
+  font-size: 30px;
+  font-family: 'Zilla Slab Highlight', cursive;
+  line-height: 30px;
+}
+
+
+.LalLogo {
+    height: 150px;
+    padding: 30px;
+}
+
+.logo {
+  text-align: center;
+}
